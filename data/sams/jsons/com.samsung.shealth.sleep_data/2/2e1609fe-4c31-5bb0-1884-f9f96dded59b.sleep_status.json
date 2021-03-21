@@ -1,0 +1,37 @@
+[
+  {
+    "status": 90.0,
+    "start_time": 1592711700000,
+    "binning_period": 10
+  },
+  {
+    "status": 80.0,
+    "start_time": 1592712300000,
+    "binning_period": 10
+  },
+  {
+    "status": 90.0,
+    "start_time": 1592712900000,
+    "binning_period": 10
+  },
+  {
+    "status": 90.0,
+    "start_time": 1592713500000,
+    "binning_period": 10
+  },
+  {
+    "status": 90.0,
+    "start_time": 1592714100000,
+    "binning_period": 10
+  },
+  {
+    "status": 90.0,
+    "start_time": 1592714700000,
+    "binning_period": 10
+  },
+  {
+    "status": 70.0,
+    "start_time": 1592715300000,
+    "binning_period": 10
+  }
+]

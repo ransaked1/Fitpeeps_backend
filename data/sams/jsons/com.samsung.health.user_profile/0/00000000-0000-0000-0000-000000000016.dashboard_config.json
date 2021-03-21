@@ -1,0 +1,20 @@
+{
+  "mHServiceIdList": [
+    {
+      "mClient": "tracker.pedometer",
+      "mProvider": "com.sec.android.app.shealth",
+      "mUniqueStringOfId": "com.sec.android.app.shealth|tracker.pedometer"
+    },
+    {
+      "mClient": "tracker.sleep",
+      "mProvider": "com.sec.android.app.shealth",
+      "mUniqueStringOfId": "com.sec.android.app.shealth|tracker.sleep"
+    },
+    {
+      "mClient": "tracker.stress",
+      "mProvider": "com.sec.android.app.shealth",
+      "mUniqueStringOfId": "com.sec.android.app.shealth|tracker.stress"
+    }
+  ],
+  "mWebPluginInfoList": []
+}
